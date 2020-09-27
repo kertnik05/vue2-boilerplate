@@ -20,7 +20,8 @@ npm run production
 
 ### Author
 
-Kert Rey Nikko S. Lumahang
+Name:Kert Rey Nikko S. Lumahang
+
 Twitter: https://twitter.com/kertnik  
 
 ### License
